@@ -1,0 +1,9 @@
+body {
+  background-image:url('/img/Blue_sky_and_green_grass-wide.jpg');
+  background-size: 100%;
+}
+
+.title {
+  font: helvetica;
+  color: white;
+}
